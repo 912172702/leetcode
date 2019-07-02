@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2efeaab9-1fa6-4b9f-bd59-5ed3da7c4dcb" name="Default Changelist" comment="" />
+    <list default="true" id="2efeaab9-1fa6-4b9f-bd59-5ed3da7c4dcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc10/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc10/otherDp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc123/LeetCode123.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc123/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc132/LeetCode132.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc132/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc32/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc32/other.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc363/LC363.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc363/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc381/LC381.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc381/RandomizedCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc391/LC391.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc391/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc4/LC4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc4/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc403/LC403.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc403/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc407/LC407.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc407/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc407/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc410/Other.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc410/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc420/Lc420.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc420/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc432/AllOne$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc432/AllOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc432/LC432.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc440/Lc440.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc440/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc5/LeetCode5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc5/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc722/LC722.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc722/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc78/LC78.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc78/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc79/LC79.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc79/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc956/LeetCode956.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc956/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc956/other.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +111,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lc78/LC78.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
@@ -77,6 +121,15 @@
                 <element signature="e#196#197#0" expanded="true" />
                 <element signature="e#232#233#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -146,6 +199,7 @@
         <option value="$PROJECT_DIR$/src/lc363/LC363.java" />
         <option value="$PROJECT_DIR$/src/lc79/LC79.java" />
         <option value="$PROJECT_DIR$/src/lc78/LC78.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -153,7 +207,9 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -182,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562047182346" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562047360995" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -313,15 +369,16 @@
       <workItem from="1555206489911" duration="4697000" />
       <workItem from="1555225166866" duration="602000" />
       <workItem from="1555379378440" duration="12259000" />
-      <workItem from="1562030786928" duration="5781000" />
+      <workItem from="1562030786928" duration="6136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151042000" />
+    <option name="totallyTimeSpent" value="151397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -752,6 +809,13 @@
             <element signature="e#196#197#0" expanded="true" />
             <element signature="e#232#233#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
