@@ -2,49 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2efeaab9-1fa6-4b9f-bd59-5ed3da7c4dcb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc1/LC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc2/LC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc76/LC76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc76/LC76_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lc76/other.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc10/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc10/otherDp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc123/LeetCode123.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc123/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc132/LeetCode132.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc132/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc32/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc32/other.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc363/LC363.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc363/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc381/LC381.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc381/RandomizedCollection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc391/LC391.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc391/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc4/LC4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc4/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc403/LC403.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc403/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc407/LC407.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc407/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc407/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc410/Other.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc410/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc420/Lc420.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc420/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc432/AllOne$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc432/AllOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc432/LC432.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc440/Lc440.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc440/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc5/LeetCode5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc5/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc722/LC722.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc722/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc78/LC78.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc78/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc79/LC79.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc79/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc956/LeetCode956.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc956/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/lc956/other.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,56 +20,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc432/LC432.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3015">
-              <caret line="202" selection-start-line="202" selection-end-line="202" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc391/LC391.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2595">
-              <caret line="176" selection-start-line="176" selection-end-line="176" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc381/LC381.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lc363/LC363.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lc79/LC79.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="375">
               <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
@@ -114,18 +31,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lc78/LC78.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+            <state relative-caret-position="150">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -135,9 +50,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lc76/LC76.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="19" column="106" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="106" />
+              <folding>
+                <element signature="e#0#2077#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lc76/LC76_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lc76/other.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lc1/LC1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lc2/LC2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+              <folding>
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
+            <state relative-caret-position="3210">
               <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
             </state>
           </provider>
@@ -160,11 +142,13 @@
       <find>]</find>
       <find>Integer</find>
       <find>removeIf</find>
+      <find>s.charAt(i + l - 1)</find>
     </findStrings>
     <replaceStrings>
       <replace>{</replace>
       <replace>int</replace>
       <replace>}</replace>
+      <replace>ce</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -200,6 +184,12 @@
         <option value="$PROJECT_DIR$/src/lc79/LC79.java" />
         <option value="$PROJECT_DIR$/src/lc78/LC78.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/lc76/LC76.java" />
+        <option value="$PROJECT_DIR$/src/lc76/LC76_1.java" />
+        <option value="$PROJECT_DIR$/src/lc76/other.java" />
+        <option value="$PROJECT_DIR$/src/lc1/LC1.java" />
+        <option value="$PROJECT_DIR$/src/lc2/LC2.java" />
       </list>
     </option>
   </component>
@@ -215,8 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,7 +228,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562047360995" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562598791722" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -258,13 +248,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LC78">
-    <configuration name="Bishi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bishi.Bishi" />
+  <component name="RunManager" selected="Application.LC2">
+    <configuration name="LC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc1.LC1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bishi.*" />
+          <option name="PATTERN" value="lc1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC363" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc363.LC363" />
+    <configuration name="LC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc2.LC2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc363.*" />
+          <option name="PATTERN" value="lc2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +275,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC391" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc391.LC391" />
+    <configuration name="LC76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc76.LC76" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc391.*" />
+          <option name="PATTERN" value="lc76.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +288,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc78.LC78" />
+    <configuration name="LC76_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lc76.LC76_1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc78.*" />
+          <option name="PATTERN" value="lc76.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lc79.LC79" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lc79.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,19 +315,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LC391" />
-      <item itemvalue="Application.Bishi" />
-      <item itemvalue="Application.LC363" />
-      <item itemvalue="Application.LC79" />
-      <item itemvalue="Application.LC78" />
+      <item itemvalue="Application.LC76" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.LC76_1" />
+      <item itemvalue="Application.LC1" />
+      <item itemvalue="Application.LC2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LC78" />
-        <item itemvalue="Application.LC79" />
-        <item itemvalue="Application.LC363" />
-        <item itemvalue="Application.LC391" />
-        <item itemvalue="Application.Bishi" />
+        <item itemvalue="Application.LC2" />
+        <item itemvalue="Application.LC1" />
+        <item itemvalue="Application.LC76_1" />
+        <item itemvalue="Application.LC76" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -369,18 +359,20 @@
       <workItem from="1555206489911" duration="4697000" />
       <workItem from="1555225166866" duration="602000" />
       <workItem from="1555379378440" duration="12259000" />
-      <workItem from="1562030786928" duration="6136000" />
+      <workItem from="1562030786928" duration="24863000" />
+      <workItem from="1562218374996" duration="2588000" />
+      <workItem from="1562596302112" duration="2034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151397000" />
+    <option name="totallyTimeSpent" value="174746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13876967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,15 +381,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22409639" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28674698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49642345" visible="true" weight="0.17590362" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4985694" weight="0.28674698" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5035765" side_tool="true" visible="true" weight="0.17590362" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -750,6 +742,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bishi/Bishi.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="176" column="11" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lc381/LC381.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -762,52 +769,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bishi/Bishi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lc363/LC363.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="1815">
           <caret line="121" column="40" selection-start-line="121" selection-start-column="40" selection-end-line="121" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lc79/LC79.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="375">
           <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="176" column="11" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lc78/LC78.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        <state relative-caret-position="150">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -816,6 +797,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc76/LC76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="19" column="106" selection-start-line="18" selection-start-column="7" selection-end-line="19" selection-end-column="106" />
+          <folding>
+            <element signature="e#0#2077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc76/LC76_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc76/other.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3210">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc1/LC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lc2/LC2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+          <folding>
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
